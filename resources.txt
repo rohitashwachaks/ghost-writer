@@ -1,2 +1,9 @@
+RNN Cheat Sheet
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
+
 Generating text output using Markov models
 https://towardsdatascience.com/natural-language-generation-part-1-back-to-basics-2f0b2654624f
+
+Sequential GANs
+- generate synthetic sequential data — DoppelGANger.
+- https://pub.towardsai.net/generating-synthetic-sequential-data-using-gans-a1d67a7752ac
