@@ -130,3 +130,5 @@ dmypy.json
 *.png
 *_epoch_*
 data/mxm_dataset_train.txt
+*.local
+*.edu
