@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 *.png
 *_epoch_*
+mxm_dataset_train.txt
+*.csv
+mxm_dataset_test.txt
